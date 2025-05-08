@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178.104" height="44.215" viewBox="0 0 178.104 44.215">
+  <g id="Group_3848" data-name="Group 3848" transform="translate(-1111.896 -33)">
+    <g id="Group_2849" data-name="Group 2849" transform="translate(1111.896 36)">
+      <path id="Path_8658" data-name="Path 8658" d="M98.617,75.975V89.761A5.651,5.651,0,0,1,95.8,94.648l-6.11,3.527-2.378,1.374-3.45,1.99c-.457.262-1.437.781-1.437.781v-7l1.162-.672L91.6,90.026a1.838,1.838,0,0,0,.917-1.589V77.3a1.835,1.835,0,0,0-.762-1.487,1.578,1.578,0,0,0-.156-.1l-9.643-5.566a1.834,1.834,0,0,0-1.835,0L70.48,75.714a1.837,1.837,0,0,0-.917,1.593V96.546l-3.282-1.894a5.647,5.647,0,0,1-2.821-4.888V75.979a5.643,5.643,0,0,1,2.821-4.888L78.219,64.2a5.633,5.633,0,0,1,5.643,0L95.8,71.091a5.643,5.643,0,0,1,2.821,4.888Z" transform="translate(-63.46 -63.442)" fill="#d80429"/>
+      <path id="Path_8659" data-name="Path 8659" d="M108.263,94.846l-7.348,4.242a1.385,1.385,0,0,1-1.387,0l-7.5-4.328,7.5-4.331a1.083,1.083,0,0,1,1.08,0Z" transform="translate(-82.569 -81.396)" fill="#fff"/>
+      <path id="Path_8660" data-name="Path 8660" d="M128.515,110.02V118.6a1.074,1.074,0,0,1-.54.934l-7.265,4.2v-8.583a1.074,1.074,0,0,1,.54-.934l7.265-4.2Z" transform="translate(-101.752 -94.596)" fill="#fff"/>
+      <path id="Path_8661" data-name="Path 8661" d="M97.079,133.635l-7.418-3.967-.381-.219a.962.962,0,0,1-.48-.834V110.6a.345.345,0,0,1,.52-.3l7.216,4.169a1.081,1.081,0,0,1,.543.934v18.123" transform="translate(-80.409 -94.753)" fill="#fff"/>
+    </g>
+    <g id="Group_3847" data-name="Group 3847" transform="translate(-12 4.275)">
+      <text id="PeopleBlox" transform="translate(1173 52.725)" fill="#fff" font-size="23" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">PeopleBlox</tspan></text>
+      <text id="Talent_Readiness_Platform" data-name="Talent Readiness Platform" transform="translate(1173 68.94)" fill="#fff" font-size="10" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Talent Readiness Platform</tspan></text>
+    </g>
+  </g>
+</svg>
